@@ -89,6 +89,14 @@ com.recomdata.solr.maxNewsStories = 10
 com.recomdata.solr.numberOfSuggestions = 20
 //**************************
 
+
+//**************************
+//Configurations for RWG
+com.rwg.solr.scheme = 'http'
+com.rwg.solr.host = '172.20.5.34:8983'
+com.rwg.solr.port = '8983'
+com.rwg.solr.path = '/solr/collection1/select/'
+
 /**********************************
 * configuration for plugins
 **********************************/
